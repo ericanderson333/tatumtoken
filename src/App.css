@@ -1,0 +1,16 @@
+.container {
+  text-align: center; /* Center text content within the container */
+  color: white; /* Example: Set text color to white */
+}
+
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  background-image: url('public/images/jayson.gif'); 
+  background-size: cover; /* Adjusts the size of the background image to cover the entire viewport */
+  background-position: center; /* Centers the background image */
+  height: 100vh; /* Makes the background image cover the entire viewport height */
+  display: flex; /* Optional: If you want to center content vertically and horizontally */
+  justify-content: center; /* Optional: Centers content horizontally */
+  align-items: center; /* Optional: Centers content vertically */
+}
